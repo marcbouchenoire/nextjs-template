@@ -1,5 +1,5 @@
 function Page() {
-  return <main></main>
+  return <></>
 }
 
 export default Page
